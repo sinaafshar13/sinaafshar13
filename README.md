@@ -1,10 +1,7 @@
 Hi 👋 My name is Sina Afshari
 ======
-
  a Frontend Developer
-
-![profile](https://github.com/sinaafshar13/sinaafshar13/assets/136085165/f388ecbc-6ffb-42a4-94c6-897b223cca31)
-
+ 
 ## About Me
 
 I am Sina Afshari, a dedicated and results-driven Front-End Developer specializing in building responsive and user-friendly web interfaces. With extensive experience in HTML, CSS, JavaScript, and modern frameworks, I am committed to delivering high-quality solutions and continuously improving my skills and knowledge in the field.Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | Bootstrap | ReactJS practices and WordPress. 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
@@ -27,8 +24,8 @@ I am Sina Afshari, a dedicated and results-driven Front-End Developer specializi
 </p>
 
 ### My Responsive Portfolio Website
-A personal portfolio website showcasing my skills, projects, and experience. Utilizes HTML, CSS, and JavaScript.
-- **Repository:** [Portfolio Website](https://github.com/sinaafshar13/portfolio-website)
+A personal portfolio website showcasing my skills, projects, and experience. Utilizes HTML, CSS, JavaScript and React Js.
+- **Repository:** [Portfolio Website](https://github.com/sinaafshar13/React-Portfolio)
 - **Live Demo:** [Live Demo](https://sinafolio.liara.run)
 
 ## GitHub Statistics
