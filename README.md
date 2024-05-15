@@ -1,16 +1,51 @@
-### Hi there 👋
+Hi 👋 My name is Sina Afshari
+======
 
-<!--
-**sinaafshar13/sinaafshar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ a Frontend Developer
 
-Here are some ideas to get you started:
+![profile](https://github.com/sinaafshar13/sinaafshar13/assets/136085165/f388ecbc-6ffb-42a4-94c6-897b223cca31)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am Sina Afshari, a dedicated and results-driven Front-End Developer specializing in building responsive and user-friendly web interfaces. With extensive experience in HTML, CSS, JavaScript, and modern frameworks, I am committed to delivering high-quality solutions and continuously improving my skills and knowledge in the field.Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | Bootstrap | ReactJS practices and WordPress. 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
+
+- **📘 Currently Learning:** Enhancing my expertise in React.js and TypeScript.
+- **🤝 Looking to Collaborate On:** Exciting frontend projects and open-source contributions where I can contribute my skills and learn from others.
+- **🧐 Seeking Help With:** Advanced topics in performance optimization and accessibility.
+- **💬 Ask Me About:** JavaScript, React.js, CSS, and front-end best practices.
+- **📫 Reach Me At:** sina.afshari@outlook.com . 
+### Skills
+
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/react-colored.svg" width="36" height="36" alt="React" /></a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> 
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+   
+</p>
+
+### My Responsive Portfolio Website
+A personal portfolio website showcasing my skills, projects, and experience. Utilizes HTML, CSS, and JavaScript.
+- **Repository:** [Portfolio Website](https://github.com/sinaafshar13/portfolio-website)
+- **Live Demo:** [Live Demo](https://sinafolio.liara.run)
+
+## GitHub Statistics
+
+![Sina Afshar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinaafshar13&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinaafshar13&layout=compact&theme=radical)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/sina-afshari-32b3bb288/))
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/SiNa13RiShe)
+[![Personal Website](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome)](https://sinafolio.liara.run)
+
+Thank you for visiting my GitHub profile. I welcome the opportunity to discuss potential collaborations and how I can contribute to your team or projects.
+___
+
+<a href="">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+</a>
+
