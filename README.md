@@ -1,7 +1,7 @@
 Hi 👋 My name is Sina Afshari
 ======
- a Frontend Developer
- 
+I'm frontend developer based in Tehran, and I'm very passionate and dedicated to my work.
+
 ## About Me
 
 I am Sina Afshari, a dedicated and results-driven Front-End Developer specializing in building responsive and user-friendly web interfaces. With extensive experience in HTML, CSS, JavaScript, and modern frameworks, I am committed to delivering high-quality solutions and continuously improving my skills and knowledge in the field.Highly skilled in wire-framing, designing, and developing creative digital experiences using professional HTML | CSS | JavaScript | Bootstrap | ReactJS practices and WordPress. 👨‍💻 Turning Visuals into Working Prototypes 👨‍💻
