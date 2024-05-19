@@ -40,9 +40,5 @@ A personal portfolio website showcasing my skills, projects, and experience. Uti
 [![Personal Website](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome)](https://sinafolio.liara.run)
 
 Thank you for visiting my GitHub profile. I welcome the opportunity to discuss potential collaborations and how I can contribute to your team or projects.
-___
 
-<a href="">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-</a>
 
